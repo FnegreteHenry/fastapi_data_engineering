@@ -13,3 +13,6 @@
 
 ## Requirements:
 - pip freeze > requirements.txt
+
+## Run Script:
+- uvicorn main:app --reload
