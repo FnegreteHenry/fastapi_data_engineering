@@ -1,4 +1,4 @@
-## Librerías:
+## Librerías
 - fastapi, 
 - uvicorn, 
 - sqlalchemy, 
@@ -7,5 +7,5 @@
 - numpy
 - uuid
 
-## Freeze
+## Requirements
 - pip freeze > requirements.txt
